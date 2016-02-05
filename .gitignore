@@ -20,3 +20,7 @@ build
 # other
 eclipse
 run
+
+# things added by nick
+.DS_Store
+
