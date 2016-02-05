@@ -13,5 +13,12 @@ public class ModRecipes {
 				" a ",
 				'a', Blocks.dirt, 'b', Blocks.planks
 		);
+		
+		GameRegistry.addRecipe(new ItemStack(Items.slime_ball),
+				" a ",
+				"aba",
+				" a ",
+				'a', Blocks.dirt, 'b', Items.stick
+		);
 	}
 }
